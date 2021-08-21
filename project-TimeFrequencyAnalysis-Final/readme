@@ -1,0 +1,9 @@
+Project Title: Estimation of Instantaneous Pitch Frequency in Speech Signals <br>
+
+Objectives: <br>
+To Study and Explore the Algorithm proposed in the Main paper and cited papers for instantaneous pitch estimation. <br>
+To explore and implement VMD and VMD based optimisation algorithm in matlab.<br>
+To achieve proper input parameters for VMD.<br>
+To plot and compare results with other methods for pitch estimation.<br>
+Strike some comparisons (VMD vs EMD).<br>
+Video Presentation - link in the document.<br>
